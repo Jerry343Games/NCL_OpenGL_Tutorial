@@ -1,0 +1,6 @@
+﻿  tutorial2.cpp
+H:\Desktop\NCLOpenGL\2) Matrix Transformations\tutorial2.cpp(21,13): error C2039: 'SwitchToOrthographic': is not a member of 'Renderer'
+H:\Desktop\NCLOpenGL\2) Matrix Transformations\tutorial2.cpp(23,13): error C2039: 'SwitchToPerspective': is not a member of 'Renderer'
+H:\Desktop\NCLOpenGL\2) Matrix Transformations\tutorial2.cpp(46,12): error C2039: 'SetRotation': is not a member of 'Renderer'
+H:\Desktop\NCLOpenGL\2) Matrix Transformations\tutorial2.cpp(47,12): error C2039: 'SetScale': is not a member of 'Renderer'
+H:\Desktop\NCLOpenGL\2) Matrix Transformations\tutorial2.cpp(48,12): error C2039: 'SetPosition': is not a member of 'Renderer'
