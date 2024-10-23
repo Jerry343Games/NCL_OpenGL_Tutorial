@@ -16,6 +16,7 @@ Renderer::Renderer(Window& parent) : OGLRenderer(parent) {
     // 绑定 VAO
     glBindVertexArray(VAO);
 
+    //Mesh::DrawTriangle();
     // 绑定并填充 VBO 数据
     glBindBuffer(GL_ARRAY_BUFFER, VBO);
     glBufferData(GL_ARRAY_BUFFER, sizeof(vertices), vertices, GL_STATIC_DRAW);
@@ -33,13 +34,13 @@ Renderer::Renderer(Window& parent) : OGLRenderer(parent) {
 
     // 初始化着色器
     basicShader = new Shader("basicVertex.glsl", "colourFragment.glsl");
-
+    init = true;
 
     if (!basicShader->LoadSuccess()) {
         return;
     }
 
-    init = true;
+    
 }
 
 /// <summary>

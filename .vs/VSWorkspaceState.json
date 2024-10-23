@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1) Your First Triangle"
+    "\\1) Your First Triangle",
+    "\\Shaders",
+    "\\ZXEmulator"
   ],
   "SelectedNode": "\\1) Your First Triangle\\Renderer.cpp",
   "PreviewInSolutionExplorer": false

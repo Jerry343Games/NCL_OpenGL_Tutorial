@@ -8,9 +8,9 @@ int main()	{
 		return -1;
 	}
 	Renderer renderer(w);
-	//if(!renderer.HasInitialised()) {
-	//	return -1;
-	//}
+	if(!renderer.HasInitialised()) {
+		return -1;
+	}
 
 	while(w.UpdateWindow()  && !Window::GetKeyboard()->KeyDown(KEYBOARD_ESCAPE)){
 		renderer.RenderScene();
