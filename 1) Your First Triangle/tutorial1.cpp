@@ -19,6 +19,5 @@ int main()	{
 			Shader::ReloadAllShaders();
 		}
 	}
-	system("pause");
 	return 0;
 }

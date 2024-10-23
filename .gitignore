@@ -67,6 +67,7 @@ ipch/
 *.psess
 *.vsp
 *.vspx
+*.tlog
 
 # TFS 2012 Local Workspace
 $tf/
@@ -222,3 +223,5 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.tlog
+*.ilk
