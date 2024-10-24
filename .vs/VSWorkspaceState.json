@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\1) Your First Triangle",
+    "\\2) Matrix Transformations",
     "\\Shaders"
   ],
-  "SelectedNode": "\\Shaders\\colourFragment.glsl",
+  "SelectedNode": "\\GraphicsTutorials.sln",
   "PreviewInSolutionExplorer": false
 }
