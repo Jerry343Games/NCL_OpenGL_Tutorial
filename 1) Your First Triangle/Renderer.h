@@ -8,7 +8,6 @@ public:
     virtual void RenderScene(); 
 
 protected:
-    GLuint VAO;
-    GLuint VBO;
+    Mesh* triangle;
     Shader* basicShader;  
 };

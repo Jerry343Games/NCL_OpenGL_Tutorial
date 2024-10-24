@@ -49,6 +49,25 @@ void Mesh::Draw()	{
 	glBindVertexArray(0);	
 }
 
+Mesh* Mesh::GenerateTriangle()
+{
+    Mesh* m=new Mesh();//like constructor
+    m->numVertices=3; //mesh has 3 vertex
+
+    m->vertices =new Vector3[m->numVertices];
+    m->vertices[0] = Vector3(0.0f, 0.5f, 0.0f);
+    m->vertices[1] = Vector3(0.5f, -0.5f, 0.0f);
+    m->vertices[2] = Vector3(-0.5f, -0.5, 0.0f);
+    
+    m->colours =new Vector4[m->numVertices];
+    m->colours[0] = Vector4(1.0f,0.0f,0.0f,1.0f);
+    m->colours[1] = Vector4(0.0f,1.0f,0.0f,1.0f);
+    m->colours[2] = Vector4(0.0f,0.0f,1.0f,1.0f);
+
+    m->BufferData();
+    return m;
+}
+
 void Mesh::DrawSubMesh(int i) {
 	if (i < 0 || i >= (int)meshLayers.size()) {
 		return;

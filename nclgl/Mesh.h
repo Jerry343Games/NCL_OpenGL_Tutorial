@@ -48,10 +48,9 @@ public:
 
 	Mesh(void);
 	~Mesh(void);
-
-	void Draw();
+    void Draw();
+	static Mesh* GenerateTriangle();
 	void DrawSubMesh(int i);
-    void DrawTriangle();
 
 	static Mesh* LoadFromMeshFile(const std::string& name);
 
