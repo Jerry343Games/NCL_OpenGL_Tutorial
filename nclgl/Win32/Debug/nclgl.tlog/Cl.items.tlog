@@ -1,15 +1,15 @@
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\Third Party\glad\glad.c;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\glad.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\ComputeShader.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\ComputeShader.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\GameTimer.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\GameTimer.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Keyboard.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Keyboard.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Matrix2.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Matrix2.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Matrix3.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Matrix3.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Matrix4.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Matrix4.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Mesh.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Mesh.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\MeshAnimation.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\MeshAnimation.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\MeshMaterial.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\MeshMaterial.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Mouse.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Mouse.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\OGLRenderer.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\OGLRenderer.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Quaternion.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Quaternion.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Shader.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Shader.obj
-H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Window.cpp;H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Window.obj
+H:\GitHub\NCL_OpenGL_Tutorial\Third Party\glad\glad.c;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\glad.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\ComputeShader.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\ComputeShader.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\GameTimer.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\GameTimer.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Keyboard.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Keyboard.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Matrix2.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Matrix2.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Matrix3.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Matrix3.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Matrix4.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Matrix4.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Mesh.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Mesh.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\MeshAnimation.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\MeshAnimation.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\MeshMaterial.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\MeshMaterial.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Mouse.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Mouse.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\OGLRenderer.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\OGLRenderer.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Quaternion.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Quaternion.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Shader.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Shader.obj
+H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Window.cpp;H:\GitHub\NCL_OpenGL_Tutorial\nclgl\Win32\Debug\Window.obj

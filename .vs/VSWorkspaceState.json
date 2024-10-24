@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1) Your First Triangle",
-    "\\Shaders",
-    "\\ZXEmulator"
+    "\\Shaders"
   ],
-  "SelectedNode": "\\1) Your First Triangle\\Renderer.cpp",
+  "SelectedNode": "\\Shaders\\colourFragment.glsl",
   "PreviewInSolutionExplorer": false
 }
