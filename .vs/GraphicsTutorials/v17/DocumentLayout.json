@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|solutionrelative:ZXEmulator\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|solutionrelative:ZXEmulator\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Renderer.cpp",
               "DocumentMoniker": "H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\Renderer.cpp",
               "RelativeDocumentMoniker": "ZXEmulator\\Renderer.cpp",
@@ -87,15 +87,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Renderer.h",
               "DocumentMoniker": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h",
               "RelativeDocumentMoniker": "1) Your First Triangle\\Renderer.h",
               "ToolTip": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h",
               "RelativeToolTip": "1) Your First Triangle\\Renderer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-22T11:46:44.833Z"
+              "WhenOpened": "2024-10-22T11:46:44.833Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,5 +1,5 @@
 #include "../nclgl/window.h"
-#include "ZXEmulator/Renderer.h"
+#include "Renderer.h"
 
 int main() {
 	Window w("Vertex Transformation!", 800, 600, false);

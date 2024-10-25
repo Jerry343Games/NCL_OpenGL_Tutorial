@@ -1,21 +1,37 @@
 #pragma once
 #include "../nclgl/OGLRenderer.h"
-class Renderer:public OGLRenderer
+
+class Renderer : public OGLRenderer
 {
 public:
-    Renderer(Window& parent);
+    Renderer(Window &parent);
     virtual ~Renderer(void);
-    virtual void RendererScene();
+    
+    virtual void RenderScene();
+    
     void SwitchToOrthographic();
+    void SwitchToPerspective();
 
-    inline void SetScale(float scale);
-    inline void SetRotation(float location);
-    inline void SetPosition(Vector3 position);
+    inline void SetScale(float s)
+    {
+        scale = s;
+    };
+    inline void SetRotation(float r)
+    {
+        rotation = r;
+    };
+    inline void SetPosition(Vector3 p)
+    {
+        position=p;
+    };
+    
 protected:
+    
     Mesh* triangle;
     Shader* shader;
     float scale;
     float rotation;
     Vector3 position;
+    
 };
 
