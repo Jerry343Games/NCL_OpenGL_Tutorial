@@ -14,7 +14,9 @@ int main() {
 
 	float scale = 100.0f;
 	float rotation = 0.0f;
-	Vector3 position(0, 0, -1500.0f);
+	Vector3 position(0, 0, -1000.0f);
+
+    Vector3 camPos(0,0,0);
 
 	while (w.UpdateWindow() && !Window::GetKeyboard()->KeyDown(KEYBOARD_ESCAPE)) {
 		if (Window::GetKeyboard()->KeyDown(KEYBOARD_1))
@@ -43,11 +45,21 @@ int main() {
 		if (Window::GetKeyboard()->KeyDown(KEYBOARD_P))
 			position.z += 1.0f;
 
+	    if (Window::GetKeyboard()->KeyDown(KEYBOARD_W))
+	        camPos.z = -1.0f;
+	    if (Window::GetKeyboard()->KeyDown(KEYBOARD_S))
+	        camPos.z = 1.0f;
+	    if (Window::GetKeyboard()->KeyDown(KEYBOARD_A))
+	        camPos.x = 1.0f;
+	    if (Window::GetKeyboard()->KeyDown(KEYBOARD_D))
+	        camPos.x = -1.0f;
+	    
 		renderer.SetRotation(rotation);
 		renderer.SetScale(scale);
 		renderer.SetPosition(position);
 		renderer.RenderScene();
 		renderer.SwapBuffers();
+	    renderer.SetCamPos(camPos);
 	}
 
 	return 0;
