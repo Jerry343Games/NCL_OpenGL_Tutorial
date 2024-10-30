@@ -50,8 +50,7 @@ void Renderer::RenderScene() {
 		modelMatrix = Matrix4::Translation(tempPos) *
 					  Matrix4::Rotation(rotation, Vector3(0, 1, 0)) *
 					  Matrix4::Scale(Vector3(scale, scale, scale));
-
-        viewMatrix
+	    
 	    
 		glUniformMatrix4fv(glGetUniformLocation(shader->GetProgram(), "modelMatrix"), 1, false, modelMatrix.values);
 		triangle->Draw();
