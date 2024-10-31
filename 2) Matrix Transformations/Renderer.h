@@ -19,6 +19,8 @@ public:
 	    camPos+=inputDir;
 	}
 
+    virtual void UpdateScene(float deltaTime);
+
 protected:
 	Mesh* triangle;
 	Shader* shader;

@@ -1,5 +1,9 @@
 #include "Renderer.h"
 
+#include "Camera.h"
+
+Camera camera;
+
 Renderer::Renderer(Window& parent) : OGLRenderer(parent) {
 	triangle = Mesh::GenerateTriangle();
 
@@ -54,8 +58,10 @@ void Renderer::RenderScene() {
 	    
 		glUniformMatrix4fv(glGetUniformLocation(shader->GetProgram(), "modelMatrix"), 1, false, modelMatrix.values);
 		triangle->Draw();
-	
-	
-	
 	}
+}
+void Renderer::UpdateScene(float deltaTime)
+{
+    camera.UpdateCamera(deltaTime);
+    viewMatrix = camera.BuildViewMatrix();
 }

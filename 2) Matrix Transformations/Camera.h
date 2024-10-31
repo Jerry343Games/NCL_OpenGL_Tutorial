@@ -29,7 +29,7 @@ public:
     ~Camera(void);
 
     //相机刷新方法
-    void UpdateCamera(float deltaTime=1.0f){}
+    void UpdateCamera(float deltaTime=1.0f);
 
     Matrix4 BuildViewMatrix();
 
