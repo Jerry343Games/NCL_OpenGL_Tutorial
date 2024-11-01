@@ -11,7 +11,7 @@ int main() {
 	if (!renderer.HasInitialised()) {
 		return -1;
 	}
-
+    
 	float scale = 100.0f;
 	float rotation = 0.0f;
 	Vector3 position(0, 0, -1000.0f);

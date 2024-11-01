@@ -6,9 +6,9 @@ Camera camera;
 
 Renderer::Renderer(Window& parent) : OGLRenderer(parent) {
     triangle = Mesh::GenerateTriangle();
-    texture = SOIL_load_OGL_texture(TEXTUREDIR"brick.tga",SOIL_LOAD_AUTO,SOIL_CREATE_NEW_ID,0);
-    
-    shader = new Shader("DefaultTextureVertex.glsl", "DefaultTextureFrag.glsl");
+    //路径 自动检测格式 新建一个纹理对象而不是覆盖原有的 0表示使用默认选项加载纹理，而不应用任何额外的特效或压缩
+    texture =SOIL_load_OGL_texture(TEXTUREDIR"brick.tga", SOIL_LOAD_AUTO, SOIL_CREATE_NEW_ID,0);
+    shader = new Shader("MatrixVertex.glsl", "colourFragment.glsl");
 
     if (!shader->LoadSuccess()) {
         return;
@@ -66,3 +66,4 @@ void Renderer::UpdateScene(float deltaTime)
     camera.UpdateCamera(deltaTime);
     viewMatrix = camera.BuildViewMatrix();
 }
+
