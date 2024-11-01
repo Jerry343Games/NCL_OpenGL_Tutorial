@@ -14,15 +14,17 @@ Renderer::Renderer(Window& parent) : OGLRenderer(parent) {
         return;
     }
 
+    filtering=true;
+    repeating=false;
     init = true;
-
+    
     SwitchToOrthographic();
 }
 
 Renderer::~Renderer(void) {
     delete triangle;
     delete shader;
-
+    glDeleteTextures(1,&texture);
 }
 
 void Renderer::SwitchToPerspective() {
@@ -36,12 +38,14 @@ void Renderer::SwitchToOrthographic() {
 }
 
 void Renderer::RenderScene() {
-    glClear(GL_COLOR_BUFFER_BIT);
-
+    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
     BindShader(shader);
+    UpdateShaderMatrices();
+    glUniform1i(glGetUniformLocation(shader->GetProgram(), "diffuseTex"), 0); // 最后一个参数
+    glActiveTexture(GL_TEXTURE0); // 应匹配此编号
+    glBindTexture(GL_TEXTURE_2D, texture);
 
-    glUniformMatrix4fv(glGetUniformLocation(shader->GetProgram(), "projMatrix"),
-        1, false, projMatrix.values);
+    //glUniformMatrix4fv(glGetUniformLocation(shader->GetProgram(), "projMatrix"),1, false, projMatrix.values);
 
     glUniformMatrix4fv(glGetUniformLocation(shader->GetProgram()
         , "viewMatrix"), 1, false, viewMatrix.values);

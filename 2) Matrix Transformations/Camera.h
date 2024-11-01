@@ -26,7 +26,7 @@ public:
     }
 
     //注销相机方法
-    ~Camera(void);
+    ~Camera(void){};
 
     //相机刷新方法
     void UpdateCamera(float deltaTime=1.0f);
