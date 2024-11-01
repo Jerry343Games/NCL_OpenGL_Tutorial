@@ -1,12 +1,11 @@
 ﻿#include "Camera.h"
-#include "Windows.h"
 #include<algorithm>
 
 #include "nclgl/Window.h"
 
 void Camera::UpdateCamera(float deltaTime)
 {
-    rotationHorizontal -= Window::GetMouse()->GetRelativePosition().x;
+    rotationHorizontal += Window::GetMouse()->GetRelativePosition().x;
     rotationVertical -= Window::GetMouse()->GetRelativePosition().y;
 
     rotationHorizontal=std::min(rotationHorizontal,90.0f);
@@ -60,4 +59,10 @@ Matrix4 Camera::BuildViewMatrix()
 {
     return Matrix4 ::Rotation(-rotationVertical, Vector3(1, 0, 0))*Matrix4::Rotation(rotationHorizontal,Vector3(0,1,0))*Matrix4::Translation(-position);
 }
+
+Camera::~Camera()
+{
+    
+}
+
 
