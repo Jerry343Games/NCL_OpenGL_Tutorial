@@ -13,6 +13,8 @@ public:
     void UpdateTextureMatrix(float rotation);
     void ToggleRepeating();
     void ToggleFiltering();
+
+    virtual void UpdateScene(float deltaTime);
     
     inline void SetScale(float s) { scale = s; }
     inline void SetRotation(float r) { rotation = r; }
@@ -22,8 +24,6 @@ public:
     {
         camPos+=inputDir;
     }
-
-    virtual void UpdateScene(float deltaTime);
 
 protected:
     Mesh* triangle;
