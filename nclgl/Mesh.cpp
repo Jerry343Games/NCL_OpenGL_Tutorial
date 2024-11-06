@@ -49,6 +49,36 @@ void Mesh::Draw()	{
 	glBindVertexArray(0);	
 }
 
+Mesh* Mesh::GenerateQuad()
+{
+    Mesh* quad=new Mesh();
+
+    quad->numVertices =4;
+    quad->type =GL_TRIANGLE_STRIP;
+
+    quad->vertices =new Vector3[quad->numVertices];
+    quad->textureCoords =new Vector2[quad->numVertices];
+    quad->colours=new Vector4[quad->numVertices];
+
+    quad->vertices[0] = Vector3(-1.0f, 1.0f, 0.0f);
+    quad->vertices[1] = Vector3(-1.0f, -1.0f, 0.0f);
+    quad->vertices[2] = Vector3(1.0f, 1.0f, 0.0f);
+    quad->vertices[3] = Vector3(1.0f, -1.0f, 0.0f);
+
+    quad->textureCoords[0] = Vector2(0.0f, 1.0f);
+    quad->textureCoords[1] = Vector2(0.0f, 0.0f);
+    quad->textureCoords[2] = Vector2(1.0f, 1.0f);
+    quad->textureCoords[3] = Vector2(1.0f, 0.0f);
+
+    for (int i= 0; i<4;++i)
+    {
+        quad->colours[i] = Vector4(1.0,1.0,1.0,1.0);
+    }
+
+    quad->BufferData();
+    return  quad;
+}
+
 Mesh* Mesh::GenerateTriangle()
 {
     Mesh* m=new Mesh();//like constructor

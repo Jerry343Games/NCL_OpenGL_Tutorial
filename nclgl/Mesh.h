@@ -51,6 +51,7 @@ public:
     void Draw();
 	static Mesh* GenerateTriangle();
 	void DrawSubMesh(int i);
+    static Mesh* GenerateQuad();
 
 	static Mesh* LoadFromMeshFile(const std::string& name);
 
