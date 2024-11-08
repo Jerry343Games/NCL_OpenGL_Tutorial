@@ -1,7 +1,22 @@
 ﻿#pragma once
+#include "nclgl/OGLRenderer.h"
 
-class Renderer
+class Renderer : public OGLRenderer
 {
 public:
-    
+    Renderer(Window &parent);
+    ~Renderer();
+
+    void RenderScene() override;
+
+    void ToggleScissor();
+    void ToggleStencil();
+
+protected:
+    Shader* shader;
+    Mesh* meshes[2];
+    GLuint texture[2];
+
+    bool usingScissor;
+    bool usingStencil;
 };
