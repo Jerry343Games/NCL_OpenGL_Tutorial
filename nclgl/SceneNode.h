@@ -14,6 +14,7 @@ public:
     ~SceneNode();
 
     //位置
+    void SetTransform(const Matrix4& matrix) { transform = matrix; }
     const Matrix4& GetTransform() const { return transform; }
     Matrix4 GetWorldTransform() const { return worldTransform; }
 

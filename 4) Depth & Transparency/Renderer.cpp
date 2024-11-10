@@ -2,7 +2,7 @@
 
 Renderer::Renderer(Window &parent) : OGLRenderer(parent) {
     meshes[0] = Mesh::GenerateQuad();
-    meshes[1] = Mesh::GenerateTriangle();
+    meshes[1] = Mesh::GenerateTriangle();  
 
     textures[0] = SOIL_load_OGL_texture(
         TEXTUREDIR"brick.tga",
