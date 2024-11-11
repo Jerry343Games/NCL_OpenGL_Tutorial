@@ -5,6 +5,9 @@ SceneNode::SceneNode(Mesh* mesh, Vector4 colour) {
     this->colour = colour;
     parent = NULL;
     modelScale = Vector3(1, 1, 1);
+    boundingRadius = 1.0f;
+    distanceFromCamera = 0.0f;
+    texture = 0;
 }
 
 //不会删除Mesh变量，只是删除节点，因此可以多个SceneNode指向同的网格实例，而不必每个节点都拥有自己的 Mesh
