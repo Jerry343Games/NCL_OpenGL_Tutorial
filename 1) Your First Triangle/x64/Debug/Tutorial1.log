@@ -1,1 +1,12 @@
-﻿  Tutorial1.vcxproj -> H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\x64\Debug\Tutorial 01 - Your First Triangle.exe
+﻿  Renderer.cpp
+D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Renderer.cpp')
+  
+D:\SourceCode\NCL_OpenGL_Tutorial\1) Your First Triangle\Renderer.cpp(39,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\1) Your First Triangle\Renderer.cpp(39,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  tutorial1.cpp
+D:\SourceCode\NCL_OpenGL_Tutorial\NCLGL\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  (compiling source file 'tutorial1.cpp')
+  
+  Generating Code...
+  Tutorial1.vcxproj -> D:\SourceCode\NCL_OpenGL_Tutorial\x64\Debug\Tutorial 01 - Your First Triangle.exe

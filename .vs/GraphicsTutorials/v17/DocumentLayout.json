@@ -1,26 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\GitHub\\NCL_OpenGL_Tutorial\\",
+  "WorkspaceRootPath": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\BlankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F93172-8DC5-4E52-80B6-0D56624BD569}|11) Per Fragment Lighting A\\Tutorial11.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\11) Per Fragment Lighting A\\Tutorial11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95F93172-8DC5-4E52-80B6-0D56624BD569}|11) Per Fragment Lighting A\\Tutorial11.vcxproj|solutionrelative:11) Per Fragment Lighting A\\Tutorial11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B5801E-F373-4FD4-9CD4-A75E3B14039D}|7) Scene Management\\Tutorial7.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B5801E-F373-4FD4-9CD4-A75E3B14039D}|7) Scene Management\\Tutorial7.vcxproj|solutionrelative:7) Scene Management\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|solutionrelative:ZXEmulator\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{87B5801E-F373-4FD4-9CD4-A75E3B14039D}|7) Scene Management\\Tutorial7.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Tutorial7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87B5801E-F373-4FD4-9CD4-A75E3B14039D}|7) Scene Management\\Tutorial7.vcxproj|solutionrelative:7) Scene Management\\Tutorial7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\tutorial1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\ZXEmulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{15681E3C-A747-42F0-B091-5F1300F14F52}|ZXEmulator\\ZXEmulator.vcxproj|solutionrelative:ZXEmulator\\ZXEmulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\OGLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\OGLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,64 +67,150 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ZXEmulator.cpp",
-              "DocumentMoniker": "H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\ZXEmulator.cpp",
-              "RelativeDocumentMoniker": "ZXEmulator\\ZXEmulator.cpp",
-              "ToolTip": "H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\ZXEmulator.cpp",
-              "RelativeToolTip": "ZXEmulator\\ZXEmulator.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Mesh.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.h",
+              "RelativeDocumentMoniker": "nclgl\\Mesh.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.h",
+              "RelativeToolTip": "nclgl\\Mesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T23:31:46.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mesh.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.cpp",
+              "RelativeDocumentMoniker": "nclgl\\Mesh.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.cpp",
+              "RelativeToolTip": "nclgl\\Mesh.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-22T14:49:00.369Z"
+              "WhenOpened": "2024-11-11T23:19:40.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tutorial11.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\11) Per Fragment Lighting A\\Tutorial11.cpp",
+              "RelativeDocumentMoniker": "11) Per Fragment Lighting A\\Tutorial11.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\11) Per Fragment Lighting A\\Tutorial11.cpp",
+              "RelativeToolTip": "11) Per Fragment Lighting A\\Tutorial11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T23:30:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Renderer.cpp",
+              "RelativeDocumentMoniker": "7) Scene Management\\Renderer.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Renderer.cpp",
+              "RelativeToolTip": "7) Scene Management\\Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T23:21:47.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Renderer.cpp",
-              "DocumentMoniker": "H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\Renderer.cpp",
-              "RelativeDocumentMoniker": "ZXEmulator\\Renderer.cpp",
-              "ToolTip": "H:\\GitHub\\NCL_OpenGL_Tutorial\\ZXEmulator\\Renderer.cpp",
-              "RelativeToolTip": "ZXEmulator\\Renderer.cpp",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAEEAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-22T13:50:04.181Z"
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.h",
+              "RelativeDocumentMoniker": "Blank Project\\Renderer.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.h",
+              "RelativeToolTip": "Blank Project\\Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T23:20:25.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Renderer.cpp",
-              "DocumentMoniker": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.cpp",
-              "RelativeDocumentMoniker": "1) Your First Triangle\\Renderer.cpp",
-              "ToolTip": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.cpp",
-              "RelativeToolTip": "1) Your First Triangle\\Renderer.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Blank Project\\Renderer.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp",
+              "RelativeToolTip": "Blank Project\\Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-22T11:47:12.362Z",
+              "WhenOpened": "2024-11-11T23:19:00.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "tutorial1.cpp",
-              "DocumentMoniker": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp",
-              "RelativeDocumentMoniker": "1) Your First Triangle\\tutorial1.cpp",
-              "ToolTip": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp",
-              "RelativeToolTip": "1) Your First Triangle\\tutorial1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "DocumentIndex": 9,
+              "Title": "Tutorial7.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Tutorial7.cpp",
+              "RelativeDocumentMoniker": "7) Scene Management\\Tutorial7.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Tutorial7.cpp",
+              "RelativeToolTip": "7) Scene Management\\Tutorial7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-22T11:46:52.001Z"
+              "WhenOpened": "2024-11-11T23:15:02.141Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Renderer.h",
-              "DocumentMoniker": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h",
-              "RelativeDocumentMoniker": "1) Your First Triangle\\Renderer.h",
-              "ToolTip": "H:\\GitHub\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h",
-              "RelativeToolTip": "1) Your First Triangle\\Renderer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-22T11:46:44.833Z",
+              "Title": "BlankProject.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp",
+              "RelativeDocumentMoniker": "Blank Project\\BlankProject.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp",
+              "RelativeToolTip": "Blank Project\\BlankProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T23:07:56.79Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h",
+              "RelativeDocumentMoniker": "1) Your First Triangle\\Renderer.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h",
+              "RelativeToolTip": "1) Your First Triangle\\Renderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T23:05:17.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tutorial1.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp",
+              "RelativeDocumentMoniker": "1) Your First Triangle\\tutorial1.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp",
+              "RelativeToolTip": "1) Your First Triangle\\tutorial1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T23:05:07.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.cpp",
+              "RelativeDocumentMoniker": "1) Your First Triangle\\Renderer.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.cpp",
+              "RelativeToolTip": "1) Your First Triangle\\Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T23:04:55.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OGLRenderer.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\OGLRenderer.h",
+              "RelativeDocumentMoniker": "nclgl\\OGLRenderer.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\OGLRenderer.h",
+              "RelativeToolTip": "nclgl\\OGLRenderer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-11T22:57:55.07Z"
             }
           ]
         }

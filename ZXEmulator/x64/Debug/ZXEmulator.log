@@ -1,1 +1,12 @@
-﻿  ZXEmulator.vcxproj -> H:\Desktop\NCLOpenGL\NCL_OpenGL_Tutorial\x64\Debug\ZXEmulator.exe
+﻿  Renderer.cpp
+D:\SourceCode\NCL_OpenGL_Tutorial\NCLGL\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  (compiling source file 'Renderer.cpp')
+  
+D:\SourceCode\NCL_OpenGL_Tutorial\ZXEmulator\Renderer.cpp(86,77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\ZXEmulator\Renderer.cpp(86,70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  ZXEmulator.cpp
+D:\SourceCode\NCL_OpenGL_Tutorial\NCLGL\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  (compiling source file 'ZXEmulator.cpp')
+  
+  Generating Code...
+  ZXEmulator.vcxproj -> D:\SourceCode\NCL_OpenGL_Tutorial\x64\Debug\ZXEmulator.exe
