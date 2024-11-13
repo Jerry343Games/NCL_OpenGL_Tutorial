@@ -3,6 +3,114 @@
   "WorkspaceRootPath": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\BlankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Matrix4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Matrix4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Matrix4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Matrix4.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\DirectionalLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\DirectionalLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Scene\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scene\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\HeightMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\HeightMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\HeightMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\HeightMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SceneNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\SceneNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SceneNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\SceneNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\PointLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\PointLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\PointLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\PointLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\TerrainMaterial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\TerrainMaterial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\TerrainMaterial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\TerrainMaterial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\WaveMaterial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\WaveMaterial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\WaveMaterial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\WaveMaterial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\DirectionalLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\DirectionalLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\GameTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\GameTimer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\GameTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\GameTimer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Frustum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Frustum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Frustum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\Frustum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SpotLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\SpotLight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SpotLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\SpotLight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{95F93172-8DC5-4E52-80B6-0D56624BD569}|11) Per Fragment Lighting A\\Tutorial11.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\11) Per Fragment Lighting A\\Tutorial11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{95F93172-8DC5-4E52-80B6-0D56624BD569}|11) Per Fragment Lighting A\\Tutorial11.vcxproj|solutionrelative:11) Per Fragment Lighting A\\Tutorial11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -19,14 +127,6 @@
       "RelativeMoniker": "D:0:0:{87B5801E-F373-4FD4-9CD4-A75E3B14039D}|7) Scene Management\\Tutorial7.vcxproj|solutionrelative:7) Scene Management\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,16 +139,16 @@
       "RelativeMoniker": "D:0:0:{87B5801E-F373-4FD4-9CD4-A75E3B14039D}|7) Scene Management\\Tutorial7.vcxproj|solutionrelative:7) Scene Management\\Tutorial7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8274D442-89CD-4AC2-AA8E-A9FA621452ED}|Blank Project\\BlankProject.vcxproj|solutionrelative:Blank Project\\BlankProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{061C02AD-EAAA-4BB1-9D23-1B1E55D0E924}|1) Your First Triangle\\Tutorial1.vcxproj|solutionrelative:1) Your First Triangle\\tutorial1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\OGLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:nclgl\\OGLRenderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|D:\\SourceCode\\NCL_OpenGL_Tutorial\\NCLGL\\CAMERA.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D6B51B-CB0A-4389-ADC6-24082B967C3F}|nclgl\\nclgl.vcxproj|solutionrelative:NCLGL\\CAMERA.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +166,337 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DirectionalLight.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\DirectionalLight.cpp",
+              "RelativeDocumentMoniker": "nclgl\\DirectionalLight.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\DirectionalLight.cpp",
+              "RelativeToolTip": "nclgl\\DirectionalLight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:40:48.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Matrix4.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Matrix4.h",
+              "RelativeDocumentMoniker": "nclgl\\Matrix4.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Matrix4.h",
+              "RelativeToolTip": "nclgl\\Matrix4.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T09:08:26.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix4.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Matrix4.cpp",
+              "RelativeDocumentMoniker": "nclgl\\Matrix4.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Matrix4.cpp",
+              "RelativeToolTip": "nclgl\\Matrix4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T09:08:28.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneNode.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SceneNode.h",
+              "RelativeDocumentMoniker": "nclgl\\SceneNode.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SceneNode.h",
+              "RelativeToolTip": "nclgl\\SceneNode.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:48:09.816Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BlankProject.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp",
+              "RelativeDocumentMoniker": "Blank Project\\BlankProject.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp",
+              "RelativeToolTip": "Blank Project\\BlankProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T23:07:56.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Blank Project\\Renderer.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp",
+              "RelativeToolTip": "Blank Project\\Renderer.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAKoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T23:19:00.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Scene\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Scene\\Renderer.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Scene\\Renderer.cpp",
+              "RelativeToolTip": "Scene\\Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T09:13:08.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TerrainMaterial.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\TerrainMaterial.cpp",
+              "RelativeDocumentMoniker": "nclgl\\TerrainMaterial.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\TerrainMaterial.cpp",
+              "RelativeToolTip": "nclgl\\TerrainMaterial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:46:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PointLight.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\PointLight.h",
+              "RelativeDocumentMoniker": "nclgl\\PointLight.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\PointLight.h",
+              "RelativeToolTip": "nclgl\\PointLight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:46:48.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Camera.cpp",
+              "RelativeDocumentMoniker": "nclgl\\Camera.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Camera.cpp",
+              "RelativeToolTip": "nclgl\\Camera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:53:53.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PointLight.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\PointLight.cpp",
+              "RelativeDocumentMoniker": "nclgl\\PointLight.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\PointLight.cpp",
+              "RelativeToolTip": "nclgl\\PointLight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:47:07.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SceneNode.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SceneNode.cpp",
+              "RelativeDocumentMoniker": "nclgl\\SceneNode.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SceneNode.cpp",
+              "RelativeToolTip": "nclgl\\SceneNode.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:48:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeightMap.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\HeightMap.h",
+              "RelativeDocumentMoniker": "nclgl\\HeightMap.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\HeightMap.h",
+              "RelativeToolTip": "nclgl\\HeightMap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:49:17.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HeightMap.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\HeightMap.cpp",
+              "RelativeDocumentMoniker": "nclgl\\HeightMap.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\HeightMap.cpp",
+              "RelativeToolTip": "nclgl\\HeightMap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:49:18.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Camera.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Camera.h",
+              "RelativeDocumentMoniker": "nclgl\\Camera.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Camera.h",
+              "RelativeToolTip": "nclgl\\Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:53:29.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TerrainMaterial.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\TerrainMaterial.h",
+              "RelativeDocumentMoniker": "nclgl\\TerrainMaterial.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\TerrainMaterial.h",
+              "RelativeToolTip": "nclgl\\TerrainMaterial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:45:47.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WaveMaterial.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\WaveMaterial.cpp",
+              "RelativeDocumentMoniker": "nclgl\\WaveMaterial.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\WaveMaterial.cpp",
+              "RelativeToolTip": "nclgl\\WaveMaterial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:44:26.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WaveMaterial.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\WaveMaterial.h",
+              "RelativeDocumentMoniker": "nclgl\\WaveMaterial.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\WaveMaterial.h",
+              "RelativeToolTip": "nclgl\\WaveMaterial.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:43:51.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Material.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Material.cpp",
+              "RelativeDocumentMoniker": "nclgl\\Material.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Material.cpp",
+              "RelativeToolTip": "nclgl\\Material.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:42:34.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Material.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Material.h",
+              "RelativeDocumentMoniker": "nclgl\\Material.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Material.h",
+              "RelativeToolTip": "nclgl\\Material.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:42:09.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GameTimer.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\GameTimer.cpp",
+              "RelativeDocumentMoniker": "nclgl\\GameTimer.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\GameTimer.cpp",
+              "RelativeToolTip": "nclgl\\GameTimer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:41:22.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameTimer.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\GameTimer.h",
+              "RelativeDocumentMoniker": "nclgl\\GameTimer.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\GameTimer.h",
+              "RelativeToolTip": "nclgl\\GameTimer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:41:20.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Frustum.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Frustum.h",
+              "RelativeDocumentMoniker": "nclgl\\Frustum.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Frustum.h",
+              "RelativeToolTip": "nclgl\\Frustum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:41:19.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Frustum.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Frustum.cpp",
+              "RelativeDocumentMoniker": "nclgl\\Frustum.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Frustum.cpp",
+              "RelativeToolTip": "nclgl\\Frustum.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:41:06.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DirectionalLight.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\DirectionalLight.h",
+              "RelativeDocumentMoniker": "nclgl\\DirectionalLight.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\DirectionalLight.h",
+              "RelativeToolTip": "nclgl\\DirectionalLight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:40:17.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SpotLight.cpp",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SpotLight.cpp",
+              "RelativeDocumentMoniker": "nclgl\\SpotLight.cpp",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SpotLight.cpp",
+              "RelativeToolTip": "nclgl\\SpotLight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:39:15.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SpotLight.h",
+              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SpotLight.h",
+              "RelativeDocumentMoniker": "nclgl\\SpotLight.h",
+              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\SpotLight.h",
+              "RelativeToolTip": "nclgl\\SpotLight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-12T20:39:10.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Mesh.h",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.h",
               "RelativeDocumentMoniker": "nclgl\\Mesh.h",
@@ -74,12 +504,11 @@
               "RelativeToolTip": "nclgl\\Mesh.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-11T23:31:46.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T23:31:46.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 29,
               "Title": "Mesh.cpp",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\Mesh.cpp",
               "RelativeDocumentMoniker": "nclgl\\Mesh.cpp",
@@ -91,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 27,
               "Title": "Tutorial11.cpp",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\11) Per Fragment Lighting A\\Tutorial11.cpp",
               "RelativeDocumentMoniker": "11) Per Fragment Lighting A\\Tutorial11.cpp",
@@ -99,12 +528,11 @@
               "RelativeToolTip": "11) Per Fragment Lighting A\\Tutorial11.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-11T23:30:11.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T23:30:11.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 30,
               "Title": "Renderer.cpp",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Renderer.cpp",
               "RelativeDocumentMoniker": "7) Scene Management\\Renderer.cpp",
@@ -112,35 +540,24 @@
               "RelativeToolTip": "7) Scene Management\\Renderer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-11T23:21:47.352Z"
+              "WhenOpened": "2024-11-11T23:21:47.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Renderer.h",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.h",
               "RelativeDocumentMoniker": "Blank Project\\Renderer.h",
               "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.h",
               "RelativeToolTip": "Blank Project\\Renderer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-11T23:20:25.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Renderer.cpp",
-              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp",
-              "RelativeDocumentMoniker": "Blank Project\\Renderer.cpp",
-              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\Renderer.cpp",
-              "RelativeToolTip": "Blank Project\\Renderer.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-11T23:19:00.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 33,
               "Title": "Tutorial7.cpp",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\7) Scene Management\\Tutorial7.cpp",
               "RelativeDocumentMoniker": "7) Scene Management\\Tutorial7.cpp",
@@ -152,19 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BlankProject.cpp",
-              "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp",
-              "RelativeDocumentMoniker": "Blank Project\\BlankProject.cpp",
-              "ToolTip": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\Blank Project\\BlankProject.cpp",
-              "RelativeToolTip": "Blank Project\\BlankProject.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-11T23:07:56.79Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 31,
               "Title": "Renderer.h",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.h",
               "RelativeDocumentMoniker": "1) Your First Triangle\\Renderer.h",
@@ -176,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 34,
               "Title": "tutorial1.cpp",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\tutorial1.cpp",
               "RelativeDocumentMoniker": "1) Your First Triangle\\tutorial1.cpp",
@@ -188,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 32,
               "Title": "Renderer.cpp",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\1) Your First Triangle\\Renderer.cpp",
               "RelativeDocumentMoniker": "1) Your First Triangle\\Renderer.cpp",
@@ -196,11 +601,12 @@
               "RelativeToolTip": "1) Your First Triangle\\Renderer.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-11T23:04:55.106Z"
+              "WhenOpened": "2024-11-11T23:04:55.106Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 35,
               "Title": "OGLRenderer.h",
               "DocumentMoniker": "D:\\SourceCode\\NCL_OpenGL_Tutorial\\nclgl\\OGLRenderer.h",
               "RelativeDocumentMoniker": "nclgl\\OGLRenderer.h",

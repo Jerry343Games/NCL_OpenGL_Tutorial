@@ -1,46 +1,5 @@
-﻿  Camera.cpp
+﻿  DirectionalLight.cpp
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'Camera.cpp')
+  (compiling source file 'DirectionalLight.cpp')
   
-  ComputeShader.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'ComputeShader.cpp')
-  
-  CubeRobot.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'CubeRobot.cpp')
-  
-  Frustum.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'Frustum.cpp')
-  
-  HeightMap.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'HeightMap.cpp')
-  
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\HeightMap.cpp(24,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\HeightMap.cpp(24,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\HeightMap.cpp(25,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\HeightMap.cpp(25,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-  Mesh.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'Mesh.cpp')
-  
-  OGLRenderer.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'OGLRenderer.cpp')
-  
-  SceneNode.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'SceneNode.cpp')
-  
-  Shader.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'Shader.cpp')
-  
-  Window.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'Window.cpp')
-  
-  Generating Code...
   nclgl.vcxproj -> D:\SourceCode\NCL_OpenGL_Tutorial\x64\Debug\nclgl.lib

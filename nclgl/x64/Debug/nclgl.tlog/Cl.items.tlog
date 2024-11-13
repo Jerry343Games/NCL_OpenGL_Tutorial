@@ -2,11 +2,13 @@ D:\SourceCode\NCL_OpenGL_Tutorial\Third Party\glad\glad.c;D:\SourceCode\NCL_Open
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Camera.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Camera.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\ComputeShader.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\ComputeShader.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\CubeRobot.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\CubeRobot.obj
+D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\DirectionalLight.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\DirectionalLight.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Frustum.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Frustum.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\GameTimer.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\GameTimer.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\HeightMap.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\HeightMap.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Keyboard.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Light.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Light.obj
+D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Material.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Material.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Matrix2.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Matrix2.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Matrix3.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Matrix3.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Matrix4.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Matrix4.obj
@@ -16,7 +18,11 @@ D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\MeshMaterial.cpp;D:\SourceCode\NCL_OpenG
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Mouse.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Mouse.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\OGLRenderer.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\OGLRenderer.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Plane.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Plane.obj
+D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\PointLight.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\PointLight.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Quaternion.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Quaternion.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\SceneNode.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\SceneNode.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Shader.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Shader.obj
+D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\SpotLight.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\SpotLight.obj
+D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\TerrainMaterial.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\TerrainMaterial.obj
+D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\WaveMaterial.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\WaveMaterial.obj
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Window.cpp;D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\x64\Debug\Window.obj

@@ -1,71 +1,61 @@
-﻿#pragma once
+﻿#pragma  once
 #include "Matrix4.h"
 #include "Vector3.h"
-/*
-*首先要有构造和注销函数
-*第二要有刷新相机方法
-*第三要有获取和设置相机各个参数的方法
-*/
-
-class Camera
-{
+class  Camera {
 public:
-    //相机无参构造函数
-    Camera(void)
-    {
-        rotationHorizontal =0.0f;
-        rotationVertical = 0.0f;
-    }
+    Camera(void) {
+        yaw = 0.0f;
+        pitch = 0.0f;
+        roll = 0.0f;
+        camera_speed = 100.0f;
+    };
 
-    //相机含参构造函数
-    Camera(float rHorizental, float rVertical, Vector3 position)
-    {
-        rotationHorizontal = rHorizental;
-        rotationVertical = rVertical;
+    Camera(float  pitch, float yaw, float roll, float camera_speed, Vector3  position) {
+        this->pitch = pitch;
+        this->yaw = yaw;
+        this->roll = roll;
+        this->camera_speed = camera_speed;
         this->position = position;
     }
 
-    //注销相机方法
-    ~Camera(void);
+    Camera(float  pitch, float yaw, float roll, Vector3  position) {
+        this->pitch = pitch;
+        this->yaw = yaw;
+        this->roll = roll;
+        this->camera_speed = 30.0f;
+        this->position = position;
+    }
 
-    //相机刷新方法
-    void UpdateCamera(float deltaTime=1.0f);
+    Camera(float  pitch, float yaw, Vector3  position) {
+        this->pitch = pitch;
+        this->yaw = yaw;
+        this->roll = 0.0f;
+        this->camera_speed = 100.0f;
+        this->position = position;
+    }
 
-    Matrix4 BuildViewMatrix();
+    ~Camera(void) {};
 
-    //获取相机位置
-    Vector3 GetPosition() const
-    {
-        return position;
-    }
-    //设置相机位置
-    void SetPosition(Vector3 position)
-    {
-        this->position = position; 
-    }
-    //获取水平旋转
-    float GetRotationHorizontal() const
-    {
-        return rotationHorizontal;
-    }
-    //设置水平旋转
-    void SetRotationHorizontal(float rHorizontal)
-    {
-        rotationHorizontal = rHorizontal;
-    }
-    //获取竖直旋转
-    float GetRotationVertical() const
-    {
-        return rotationVertical;
-    }
-    //设置竖直旋转
-    void SetRotationVertical(float rVertical)
-    {
-        rotationVertical = rVertical;
-    }
-    
+    void  UpdateCamera(float dt = 1.0f);
+
+    Matrix4  BuildViewMatrix();
+
+    Vector3 GetPosition() const { return  position; }
+    void SetPosition(Vector3  val) { position = val; }
+
+    float GetYaw()    const { return  yaw; }
+    void SetYaw(float y) { yaw = y; }
+
+    float GetPitch()  const { return  pitch; }
+    void SetPitch(float p) { pitch = p; }
+
+    float GetRoll()  const { return  roll; }
+    void SetRoll(float r) { roll = r; }
 protected:
-    float rotationHorizontal;
-    float rotationVertical;
-    Vector3 position;
+    float     yaw;
+    float     pitch;
+    float roll;
+    Vector3   position;    //Set to 0,0,0 by  Vector3  constructor  ;)
+    float camera_speed;
 };
+

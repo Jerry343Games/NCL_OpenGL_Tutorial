@@ -1,12 +1,13 @@
-﻿  BlankProject.cpp
-D:\SourceCode\NCL_OpenGL_Tutorial\NCLGL\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
-  (compiling source file 'BlankProject.cpp')
-  
-  Renderer.cpp
+﻿  Renderer.cpp
 D:\SourceCode\NCL_OpenGL_Tutorial\nclgl\Keyboard.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
   (compiling source file 'Renderer.cpp')
   
-D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(39,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(39,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
-  Generating Code...
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(184,11): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(182,32): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(204,11): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(202,32): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(230,24): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(228,41): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(353,82): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\SourceCode\NCL_OpenGL_Tutorial\Blank Project\Renderer.cpp(909,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   BlankProject.vcxproj -> D:\SourceCode\NCL_OpenGL_Tutorial\x64\Debug\Blank Project.exe
